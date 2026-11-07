@@ -1,0 +1,17 @@
+[project]
+name = "castaway"
+requires-python = ">=3.13"
+dependencies = ["pathspec>=1.1.1"]
+dynamic = ["version", "description"]
+
+authors = [{name="Gunjan Bagayatkar"}]
+license = "MIT"
+keywords = ["homeshick", "homesick", "dotfiles"]
+classifiers = ["Environment :: Console"]
+
+[project.scripts]
+castaway = "castaway:main"
+
+[build-system]
+requires = ["flit_core>=4.1, <5"]
+build-backend = "flit_core.buildapi"

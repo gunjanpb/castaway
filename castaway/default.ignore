@@ -1,0 +1,22 @@
+# gitignore-like list of paths not likely to have dotfiles
+
+# VSCodium and friends
+*[Cc]ache*
+*[Cc]ookies*
+Crashpad
+DIPS*
+Local Storage
+Session Storage
+SharedStorage*
+Shared Dictionary
+Dictionaries
+Trust Tokens*
+*.lock
+
+# misc
+*.log
+*.dat
+*.svg
+*.css
+*.db
+*.db*
