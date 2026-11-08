@@ -1,6 +1,6 @@
 # `$ castaway`
 
-Discovers [dotfiles](https://github.com/webpro/awesome-dotfiles) that are not being tracked in any of your [homeshick](https://github.com/andsens/homeshick) castles. Think of it as `chezmoi unmanaged` equivalent for homeshick / [homesick](https://github.com/technicalpickles/homesick).
+Discovers [dotfiles](https://github.com/webpro/awesome-dotfiles) that are not being tracked in any of your [homeshick](https://github.com/andsens/homeshick) castles. Think of it as `chezmoi unmanaged` equivalent for homeshick / [homesick](https://github.com/technicalpickles/homesick).
 
 
 ## Installation

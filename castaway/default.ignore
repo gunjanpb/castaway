@@ -10,13 +10,44 @@ Session Storage
 SharedStorage*
 Shared Dictionary
 Dictionaries
+WebStorage
 Trust Tokens*
 *.lock
+machineid
+
+# KDE
+.config/KDE/UserFeedback.conf
+.config/QtProject.conf
+.config/dconf/user
+.config/gwenviewrc
+.config/kded5rc
+.config/kded6rc
+.config/kfontinstuirc
+.config/khelpcenterrc
+.config/kmailsearchindexingrc
+.config/kmenueditrc
+.config/krunnerrc
+.config/ksmserverrc
+.config/kwinoutputconfig.json
+.config/okularpartrc
+.config/okularrc
+.config/partitionmanagerrc
+.config/sddmthemeinstallerrc
+.config/session/*
+.config/systemmonitorrc
+.config/touchpadxlibinputrc
 
 # misc
+.config/micro/buffers/history
+.config/nvtop/interface.ini
+.config/pulse/cookie
+.config/vlc/vlc-qt-interface.conf
+
+# exts
 *.log
 *.dat
 *.svg
 *.css
 *.db
 *.db*
+*.pem

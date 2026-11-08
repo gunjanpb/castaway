@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Discover files outside your Homeshick castles."""
 
-__version__ = "1.0"
+__version__ = "1.1"
 
 from collections.abc import Callable, Iterable, Iterator
 import os

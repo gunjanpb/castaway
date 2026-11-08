@@ -7,7 +7,13 @@ dynamic = ["version", "description"]
 authors = [{name="Gunjan Bagayatkar"}]
 license = "MIT"
 keywords = ["homeshick", "homesick", "dotfiles"]
-classifiers = ["Environment :: Console"]
+classifiers = [
+    "Environment :: Console",
+    "Operating System :: POSIX :: Linux",
+    "Topic :: Utilities",
+    "Intended Audience :: End Users/Desktop",
+]
+
 
 [project.scripts]
 castaway = "castaway:main"
