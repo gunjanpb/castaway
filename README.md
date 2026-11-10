@@ -13,6 +13,11 @@ or
 pipx install git+https://github.com/gunjanpb/castaway.git
 ```
 
+### Upgrading
+```sh
+mise install --force pypi:gunjanpb/castaway
+```
+
 ## Usage
 
 ```sh

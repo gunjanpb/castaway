@@ -51,3 +51,4 @@ machineid
 *.db
 *.db*
 *.pem
+*.env
